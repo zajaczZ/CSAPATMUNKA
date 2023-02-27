@@ -2,5 +2,6 @@
 
 ## Csapattagok
 
-- csapattag neve
-- csapattag neve
+Filemon Ruben Márk
+Zajacz Zoltán
+Szabó Vince
